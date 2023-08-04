@@ -1,0 +1,1 @@
+http://algeriaforestfire-env.eba-mpfu7x8u.us-east-2.elasticbeanstalk.com/predictdata
